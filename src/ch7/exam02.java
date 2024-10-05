@@ -1,5 +1,6 @@
 package ch7;
 
+
 import java.util.*;
 public class exam02 {
     public static void main(String[] args) {
